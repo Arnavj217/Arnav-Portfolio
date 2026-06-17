@@ -114,8 +114,8 @@ export const config = {
     technologies: "Python, Streamlit, Pandas, NumPy, Scikit-Learn, XGBoost, Prophet, Plotly, Machine Learning, Business Intelligence",
     image: "/images/retailpulse.avif",
     description: "An end-to-end AI-powered retail analytics platform designed to transform transactional data into strategic business insights. RetailPulse integrates customer segmentation, churn prediction, demand forecasting, and inventory optimization within an interactive Streamlit dashboard. Leveraging machine learning models and advanced analytics, the platform helps retailers identify valuable customers, forecast future demand, reduce churn, optimize inventory levels, and make smarter business decisions through real-time data visualization and predictive intelligence.",
-    github: "https://github.com/Arnavj217/Retail-Pulse",
-    liveDemo: "https://retail-pulse-engine.streamlit.app",
+    github: "https://github.com/Arnavj217/Retail-Pulse-Dashboard",
+    liveDemo: "https://retail-pulse-dashboard.streamlit.app",
     featured: true
   },
 
